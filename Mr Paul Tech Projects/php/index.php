@@ -104,7 +104,7 @@ echo "<br>";
 // nyongeza inyoongezewa paramatres
 
 function jumlishaNamba(int $a, int $b){
-    echo $a * $b;
+    echo $a + $b;
 }
 $a = 10;
 $b = 30;
