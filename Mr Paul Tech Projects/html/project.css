@@ -1,0 +1,23 @@
+nav{
+    background-color: rgb(232, 236, 212);
+    color:white;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding: 10px;
+}
+nav a{
+    padding: 10;
+
+}
+.nav-manu {
+    justify-content: space-between;
+    padding: 10px;
+    display: flex;
+    font-weight: bold;
+    list-style: none;
+}
+body{
+    background-color:rgb(147, 186, 209);
+    color: rgb(29, 25, 25)
+}
