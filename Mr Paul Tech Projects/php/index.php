@@ -108,7 +108,7 @@ function jumlishaNamba(int $a, int $b){
 }
 $a = 10;
 $b = 30;
-echo jumlishaNamba($a,$b);
+return jumlishaNamba($a,$b);
 
 echo "<br>";
 echo "<br>";
