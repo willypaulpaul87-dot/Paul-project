@@ -7,9 +7,7 @@ nav{
     padding: 10px;
 }
 nav a{
-    padding: 10;
-    justify-content: space-between;
-    align-items:center;
+    padding: 20;
 }
 .nav-manu {
     justify-content: space-between;
